@@ -5,9 +5,9 @@ import styled from "styled-components"
 export default function Home() {
 
   return (
-    <SMain>
+    <SMain className="wrapper">
       <div>
-        <p>league (coming soon)</p>
+        <p>league is coming soon</p>
       </div>
     </SMain>
   )
@@ -15,8 +15,6 @@ export default function Home() {
 
 const SMain = styled.main`
   height: 100vh;
-  width: 90vw;
-  max-width: 1200;
   display: flex;
   justify-content: center;
 
