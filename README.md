@@ -1,7 +1,7 @@
 # league
-Bloomberg terminal styled client for viewing/updating fantasy sports leagues. Pet project, WIP.
+FYI: This project is paused, currently working on Feed.
 
-League is [hosted on Vercel](https://league-gules.vercel.app/).
+Bloomberg terminal styled client for viewing/updating fantasy sports leagues. 
 
 
 ## TODO
